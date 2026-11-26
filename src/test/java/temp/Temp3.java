@@ -4,6 +4,7 @@ public class Temp3 {
 
 	public static void main(String[] args) {
 		//1st change in in main repository
+		int k = 24;
 		int no = 153;
 		int temp = no;
 		int rem = 0;
